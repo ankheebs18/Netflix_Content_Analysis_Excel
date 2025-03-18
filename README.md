@@ -5,7 +5,7 @@ The Netflix Titles dataset is a comprehensive compilation of movies and TV shows
 
 Columns: There are 12 columns in the dataset:
 
-1. show_id: A unique identifier for each title.
+1. show_id: A unique identifier for each title. 
    
 2. type: The category of the title, which is either 'Movie' or 'TV Show'.
    
